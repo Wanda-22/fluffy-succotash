@@ -1,0 +1,24 @@
+.w{
+    width: 100%;
+    font-size: 35px;
+    margin: 0;
+    box-shadow: 10px 10px 10px tomato;
+}
+.z{
+    font-size: 20px;
+    color: lavenderblush;
+}
+.j{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: blue;
+    color: cornsilk;
+    line-height: 4;
+    text-align: center;
+}
+canvas{
+    border: 5px dotted olivedrab;
+    border-radius: 25px;
+    background-color: lightcoral;
+}
